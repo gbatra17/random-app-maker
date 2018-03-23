@@ -57,3 +57,4 @@ $ random-app-maker --help
 ## License
 
 MIT © [Garima Batra](http://github.com/gbatra17)
+Available on [NPM](https://www.npmjs.com/package/random-app-maker)
