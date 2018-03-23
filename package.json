@@ -1,0 +1,46 @@
+{
+  "name": "random-app-maker",
+  "version": "1.3.0",
+  "description": "Get unique app ideas",
+  "license": "MIT",
+  "repository": "gbatra17/random-app-maker",
+  "bin": {
+    "random-app-maker": "cli.js"
+  },
+  "author": {
+    "name": "Garima Batra",
+    "email": "gbatra17@gmail.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js",
+    "cli.js",
+    "type.json",
+    "industry.json"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli",
+    "bin",
+    "word",
+    "words",
+    "list",
+    "array",
+    "json",
+    "random",
+    "rand"
+  ],
+  "dependencies": {
+    "meow": "^3.5.0",
+    "unique-random-array": "^1.0.0"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  }
+}
