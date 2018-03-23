@@ -21,17 +21,17 @@ randomAppMaker.randomApp();
 
 ## API
 
-### .all
+### .typesRandom()
 
 Type: `array`
 
-All ideas.
+All the types of apps.
 
-### .allRandom()
+### .industryRandom()
 
 Type: `function`
 
-Random app ideas.
+All the industries available.
 
 
 ## CLI
@@ -46,15 +46,6 @@ $ random-app-maker --help
   Examples
     $ random-app-maker
     A VR App for Museums
-
-    $ random-app-maker --all --type yes
-    Absolutely
-    Affirmative
-    ...
-
-  Options
-    --all   Get all words instead of a random word
-    --type  Type of word: yes|no|all  Default: all
 ```
 
 
