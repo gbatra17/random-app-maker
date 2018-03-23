@@ -38,9 +38,5 @@
   "dependencies": {
     "meow": "^3.5.0",
     "unique-random-array": "^1.0.0"
-  },
-  "devDependencies": {
-    "ava": "*",
-    "xo": "*"
   }
 }
